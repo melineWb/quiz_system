@@ -1,0 +1,24 @@
+1. Which version of the tag is the most correct?
+a. <a class="mylink" href="/images/2.html" title="Sample">Sample</a> (t)
+b. <a class="mylink" href="/images/2.html" title=«Sample»>Sample</a>
+c. <a class="mylink" href="/images/2.html" title=«Sample»>Sample</a>
+d. <a class="mylink" href="/images/2.html" title=«Sample»>Sample</a>
+
+2. Which statement best suits the case when the <p> tag is located in the <head> container?
+a. The contents of the <head> tag will not be displayed on the web page.
+b. The browser displays an error message.
+c. The HTML code does not pass the validation. (t)
+d. The encoding of the text in the document will change.
+
+3. Why does not the text between the <! - and -> tags appear in the browser?
+a. This is a comment to the code, so it is not displayed. (t)
+b. This text is perceived by the browser as a style parameter for the design of elements of a web page.
+c. This is a directive that gives the web server the task of executing a specific command.
+d. Because such tags do not exist and the browser ignores them.
+
+4. The content of which element can be seen in the browser window?
+a. <!DOCTYPE>
+b. <title> (t)
+c. <meta>
+d. <br>
+e. <link>
