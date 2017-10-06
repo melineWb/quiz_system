@@ -23,7 +23,7 @@ $ node index.js
 ```
 
 #### Options
-##### csv
+##### --csv
 
 Type: `string`<br>
 Default: `./demo_files/catalog-to-import.csv` <br>
