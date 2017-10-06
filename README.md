@@ -67,7 +67,7 @@ $ node index.js --logs 'file.log'
 
 Type: `boolean`<br>
 Default: `false` <br>
-Overwrite output and logs file if they are exist. Using with options: output or logs.
+Overwrite output and logs file if they are exist. Using with options: `output` or `logs`.
 
 ```
 $ node index.js --output 'file.xml' --logs 'file.log' --overwrite
