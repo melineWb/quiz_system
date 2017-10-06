@@ -61,7 +61,7 @@ $ node index.js --output 'file.xml'
 
 Type: `string`<br>
 Default: `./output/<dateTime>_logs.log` <br>
-Overwrite output and logs file if they are exist.
+The output log file.
 
 ```
 $ node index.js --logs 'file.log'
