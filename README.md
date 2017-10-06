@@ -51,7 +51,7 @@ $ node index.js --catalog 'file.xml'
 
 Type: `string`<br>
 Default: `./output/<dateTime>_filtered.xml` <br>
-Name of output file with filtered products.
+The output file with filtered products.
 
 ```
 $ node index.js --output 'file.xml'
