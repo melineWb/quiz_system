@@ -11,6 +11,10 @@ $ npm install
 ## Usage
 
 #### Usage without options
+Upload default files into folder  `./demo_files/`:
+
+* Master catalog: `./demo_files/catalog.xml`
+* CSV file with id-s of products: `./demo_files/catalog-to-import.csv`
 
 ```
 $ npm start
