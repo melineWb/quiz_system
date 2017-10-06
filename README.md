@@ -33,7 +33,7 @@ The input csv file
 $ node index.js --csv 'file.csv'
 ```
 
-##### catalog
+##### --catalog
 
 Type: `string`<br>
 Default: `./demo_files/catalog.xml` <br>
@@ -43,7 +43,7 @@ The input master catalog file
 $ node index.js --catalog 'file.xml'
 ```
 
-##### output
+##### --output
 
 Type: `string`<br>
 Default: `./output/<dateTime>_filtered.xml` <br>
@@ -53,7 +53,7 @@ Name of output file with filtered products.
 $ node index.js --output 'file.xml'
 ```
 
-##### logs
+##### --logs
 
 Type: `string`<br>
 Default: `./output/<dateTime>_logs.log` <br>
@@ -63,7 +63,7 @@ Overwrite output and logs file if they are exist.
 $ node index.js --logs 'file.log'
 ```
 
-##### overwrite
+##### --overwrite
 
 Type: `boolean`<br>
 Default: `false` <br>
@@ -73,5 +73,5 @@ Overwrite output and logs file if they are exist. Using with options: output or 
 $ node index.js --output 'file.xml' --logs 'file.log' --overwrite
 ```
 
-##### help
+##### --help
 Print this usage guide.
