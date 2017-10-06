@@ -2,7 +2,7 @@
 > Master catalog filter via *.csv file.
 
 ## Install
-In console open folder og project. 
+In console open project folder. 
 
 ```
 $ npm install
